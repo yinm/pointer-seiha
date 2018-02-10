@@ -1,0 +1,1 @@
+* [C言語関数辞典 - fgets](http://www.c-tipsref.com/reference/stdio/fgets.html)
