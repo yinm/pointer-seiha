@@ -5,3 +5,4 @@
 
 ## ch2
 * [C言語関数辞典 - fgets](http://www.c-tipsref.com/reference/stdio/fgets.html)
+* [C言語関数辞典 - sscanf](http://www.c-tipsref.com/reference/stdio/sscanf.html)
